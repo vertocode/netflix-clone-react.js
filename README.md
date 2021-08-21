@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Clone da Netlix</h1>
-    <h3>Pagina de seleção de conteudo feito usando o React com responsividade e toda animação igual a Netlix original.</h3>
+    <h3>Página de seleção de conteúdo feito usando o React com responsividade e toda animação igual a Netlix original.</h3>
     <strong>
-        <p>Creditos de conteudo: https://www.netflix.com/br/</p>
+        <p>Créditos de conteudo: https://www.netflix.com/br/</p>
         <p>API usada: https://www.themoviedb.org/</p>
     </strong>
     <h2 style="text-align: center;">Imagens da Página</h2>
