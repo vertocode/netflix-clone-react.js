@@ -1,15 +1,28 @@
-<h1 style="text-align: center;">Clone da Netlix</h1>
-    <h3>Página de seleção de conteúdo feito usando o React com responsividade e toda animação igual a Netflix original.</h3>
+<h1>Netflix Clone</h1>
+   <h3>Content selection page made using React with responsiveness and all animation just like the original Netflix.</h3>
     <strong>
-        <p>Créditos de conteudo: https://www.netflix.com/br/</p>
-        <p>API usada: https://www.themoviedb.org/</p>
+        <p>Content credits: https://www.netflix.com/br/</p>
+        <p>API: https://www.themoviedb.org/</p>
     </strong>
-    <h2 style="text-align: center;">Imagens da Página</h2>
+    <br/>
+    <hr/>
+    <hr/>
+    <br/>
     <img src="images/1.png" alt="">
-    <img src="images/2.png" alt="">
+    <br/>
+    <hr/>
+    <hr/>
+    <br/>
     <img src="images/3.png" alt="">
+    <br/>
+    <hr/>
+    <hr/>
+    <br/>
     <div style="display: flex; padding:10px; white-space:nowrap">
         <img src="images/4.png" alt="">
         <img src="images/5.png" alt="">
-        <img src="images/6.png" alt="">
     </div>
+    <br/>
+    <hr/>
+    <hr/>
+    <br/>
